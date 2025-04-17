@@ -6,7 +6,7 @@
 
 *INTERN ID*: CT06WZ39
 
-*DOMAIN* : DATA ANALYSIS
+*DOMAIN* : Data Analytics
 
 *DURATION* : 6 weeks
 
