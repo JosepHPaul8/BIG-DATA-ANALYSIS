@@ -17,4 +17,4 @@
 
 *OUTPUT*
 
-https://github.com/user-attachments/assets/b9933c3e-d484-4c56-ada8-eb21722a7f84
+![Image](https://github.com/user-attachments/assets/b9933c3e-d484-4c56-ada8-eb21722a7f84)
